@@ -1,8 +1,23 @@
-.body{
-    font-family: Roboto;
-    color:#212121;
+.button-main {
+    cursor:pointer;
+    color:#E5E5E5;
+    background-color: #2196F3 ;
+}
+.header {
     background-color: #E5E5E5;
 }
-.button {
-    cursor:pointer;
+.webstudio{
+    font-weight: 700;
+    font-family: Raleway;
+}
+.link {
+color: #2196F3;
+}
+p{
+    color:#E5E5E5
+}
+
+.footer {
+    background-color: #2F303A
+
 }
