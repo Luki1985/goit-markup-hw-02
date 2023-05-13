@@ -20,18 +20,13 @@ background-color: #2196F3;
 }
 
 .footer {
-    background-color: #2F303A
+    background-color: #2F303A}
     
-}
-
-
 .text {
-    font-family: "Roboto";
     font-weight: 400;
     color: #212121;
 }
 .h4 {
-    font-family: "Roboto";
     font-weight: 700;
     font-size: 18px;
 }
