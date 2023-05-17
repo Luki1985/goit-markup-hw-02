@@ -15,11 +15,14 @@ color: #212121;
 .webstudio{
     font-weight: 700;
     font-family: "Raleway";
+    color: #2196F3;
 }
 .link {
-background-color: #2196F3;
+color: #212121;
 }
-
+.link-blue {
+    color: #2196F3;
+}
 .footer {
     background-color: #2F303A}
     
@@ -30,4 +33,23 @@ background-color: #2196F3;
 .h4 {
     font-weight: 700;
     font-size: 18px;
+    font-family: "Roboto";
+}
+p {
+    color: #757575;
+    font-weight: 400;
+    font-family: "Roboto";
+}
+
+.filters .filter {
+    color: #F5F4FA;
+}
+.menu-nav .nav{
+    background-color: #F5F4FA;
+    color: #212121;
+}
+.menu-nav > nav:fover,
+.menu-nav > nav:focus {
+   background-color: #2196F3;
+   color: #F5F4FA;
 }
