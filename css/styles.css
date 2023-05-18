@@ -12,10 +12,16 @@ color: #212121;
 .header {
     background-color: #E5E5E5;
 }
-.webstudio{
-    font-weight: 700;
-    font-family: "Raleway";
+.logo {
     color: #2196F3;
+    font-weight: 700;
+    font-size: 26px;
+}
+    
+.logo2 {
+    color: #212121;
+    font-weight: 700;
+    font-size: 26px;
 }
 .link {
 color: #212121;
@@ -52,4 +58,7 @@ p {
 .menu-nav > nav:focus {
    background-color: #2196F3;
    color: #F5F4FA;
+}
+.list-style-type: {
+none;
 }
