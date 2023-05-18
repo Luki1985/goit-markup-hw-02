@@ -50,7 +50,6 @@ p {
 .filters .filter {
     color: #F5F4FA;
 }
-.nav-button > nav:hover {
-background-color: #2196F3;
-color: #F5F4FA;
+.nav:hover {
+color: #2196F3;
 }
