@@ -50,15 +50,7 @@ p {
 .filters .filter {
     color: #F5F4FA;
 }
-.menu-nav .nav{
-    background-color: #F5F4FA;
-    color: #212121;
-}
-.menu-nav > nav:fover,
-.menu-nav > nav:focus {
-   background-color: #2196F3;
-   color: #F5F4FA;
-}
-.list-style-type: {
-none;
+.nav-button > nav:hover {
+background-color: #2196F3;
+color: #F5F4FA;
 }
