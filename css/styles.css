@@ -1,11 +1,16 @@
 .body {
     font-family: "Roboto";
     color:#212121;
+    line-height: 1.1;
+    font-size: 14px;
 }
 
 .button {
     cursor:pointer;
     color:#E5E5E5;
+    font-weight:500;
+    line-height: 1.6;
+    font-size: 16px;
 }
 .button:active {
     color: #2196F3;
@@ -20,14 +25,18 @@
 }
 .logo {
     color: #2196F3;
-    font-weight: 700;
+    font-family: "Raleway";
+    font-weight: 400;
     font-size: 26px;
+    line-height: 1.2;
 }
     
 .logo2 {
     color: #212121;
-    font-weight: 700;
+    font-family: "Raleway";
+    font-weight: 400;
     font-size: 26px;
+    line-height: 1.2;
 }
 .link {
     color: #212121;
@@ -51,11 +60,16 @@
 .h4 {
     font-weight: 700;
     font-size: 18px;
+    line-height: 2 ;
+    color:#212121
 }
 p {
     color: #757575;
     font-weight: 400;
+    font-size: 16px;
+    line-height: 1.8;
 }
+
 
 .filters .filter {
     color: #F5F4FA;
