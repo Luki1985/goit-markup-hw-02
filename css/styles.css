@@ -1,15 +1,18 @@
-
+.body {
+    font-family: "Roboto";
+    color:#212121;
+}
 
 .button {
     cursor:pointer;
     color:#E5E5E5;
 }
 .button:active {
-color: #2196F3;
+    color: #2196F3;
 }
 .button:hover {
-            color: #49aaff;
-            text-decoration-color: none;
+    color: #49aaff;
+    text-decoration-color: none;
         }
 
 .header {
@@ -27,10 +30,14 @@ color: #2196F3;
     font-size: 26px;
 }
 .link {
-color: #212121;
+    color: #212121;
+    font-weight: 500;
+    font-size: 14px;
 }
 .link-blue {
     color: #2196F3;
+    font-weight: 500;
+    font-size: 14px;
 }
 .footer {
     background-color: #2F303A
@@ -44,12 +51,10 @@ color: #212121;
 .h4 {
     font-weight: 700;
     font-size: 18px;
-    font-family: "Roboto";
 }
 p {
     color: #757575;
     font-weight: 400;
-    font-family: "Roboto";
 }
 
 .filters .filter {
