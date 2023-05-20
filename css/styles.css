@@ -12,10 +12,10 @@
     line-height: 1.6;
     font-size: 16px;
 }
-.buttons:active {
+.button:active {
     color: #2196F3;
 }
-.buttons:hover {
+.button:hover {
     color: #2196F3;
         }
 
@@ -31,7 +31,14 @@
 }
     
 .logo2 {
-    color: #212121;
+    color: #FFFFFF;
+    font-family: "Raleway";
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 1.2;
+}
+.logo3 {
+    color: #000 ;
     font-family: "Raleway";
     font-weight: 700;
     font-size: 26px;
@@ -42,12 +49,14 @@
     font-family:"Roboto";
     font-weight: 500;
     font-size: 14px;
+    text-decoration: none;
 }
 .link-blue {
     color: #2196F3;
     font-family: "Roboto";
     font-weight: 500;
     font-size: 14px;
+    text-decoration: none;
 }
 .footer {
     background-color: #2F303A
@@ -72,10 +81,6 @@ p {
     line-height: 1.8;
 }
 
-
-.filters .filter {
-    color: #F5F4FA;
-}
 .wallpaper {
     background-color: #2F303A;
 }
@@ -85,4 +90,22 @@ p {
 }
 .text3 {
     color: #757575;
+    text-decoration: none;
+}
+.images {
+
+}
+.business {
+    background-color: #2F303A;
+
+}
+h1 {
+    color: #FFFFFF;
+
+}
+h2 {
+    color:#212121
+}
+.lorem-ipsum {
+    color: #E5E5E5;
 }
