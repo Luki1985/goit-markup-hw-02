@@ -7,6 +7,7 @@
 .button1 {
     width: 200px;
     height: 50px;
+    color: #eee;
     background-color:#2196F3
 }
 .button1:hover {
@@ -81,20 +82,34 @@ p{
     background-color: #2F303A;
 }
 .text2 {
-    color: #fff;
+    color: #757575;
+    cursor: "pointer";
 }
+
 .text3 {
     color: #757575;
     text-decoration: none;
 }
+.text4 {
+    color: #2196F3;
+    text-decoration: none;
+}
+
 .business {
     background-color: #2F303A;
+    width: 1600px;
+    height: 600px;
 
 }
 h1 {
     color: #FFFFFF;
+    font-family: "Roboto";
+    font-weight: 900;
+    text-align: center;
 }
 h2 {
+    font-family: "Roboto";
+    font-size: 36px;
     color:#212121
 }
 h4 {
@@ -111,11 +126,11 @@ h6 {
     color: #212121;
 }
 .lorem-ipsum {
-   background-color: #E5E5E5;
+   background-color: #fff;
 }
 
 .team {
-    color: #F5F4FA;
+    background-color: #F5F4FA;
 }
 
 .main {
@@ -123,4 +138,7 @@ h6 {
 }
 .top {
     Font-family: "Roboto" 
+}
+.pictures {
+    background-color: #fff;
 }
