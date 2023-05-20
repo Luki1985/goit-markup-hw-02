@@ -68,12 +68,7 @@
     font-weight: 400;
     color: #FFFFFF;
 }
-.h4 {
-    font-weight: 700;
-    font-size: 18px;
-    line-height: 2 ;
-    color:#212121
-}
+
 p {
     color: #757575;
     font-weight: 400;
@@ -106,6 +101,20 @@ h1 {
 h2 {
     color:#212121
 }
+h4 {
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 2;
+    color: #212121}
+h6 {
+    color: #212121;
+}
 .lorem-ipsum {
+    color: #E5E5E5;
+}
+.team {
+    color: #F5F4FA;
+}
+.main {
     color: #E5E5E5;
 }
