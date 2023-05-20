@@ -4,19 +4,25 @@
     line-height: 1.1;
     font-size: 14px;
 }
-
+.button1 {
+    width: 200px;
+    height: 50px;
+    background-color:#fff
+}
+.button1:hover {
+    background-color: #2196F3;
+}
 .button {
-    cursor:pointer;
-    color:#E5E5E5;
+    width: 121px;
+    height: 38px;
+    background-color: #eee;
     font-weight:500;
     line-height: 1.6;
     font-size: 16px;
 }
-.button:active {
-    color: #2196F3;
-}
+
 .button:hover {
-    color: #2196F3;
+    background-color: #2196F3;
         }
 
 .header {
@@ -59,17 +65,12 @@
     text-decoration: none;
 }
 .footer {
-    background-color: #2F303A
-
-    
-}
-    
+    background-color: #2F303A  }   
 .text {
     font-weight: 400;
     color: #FFFFFF;
 }
-
-p {
+p{
     color: #757575;
     font-weight: 400;
     font-size: 16px;
@@ -81,14 +82,10 @@ p {
 }
 .text2 {
     color: #fff;
-
 }
 .text3 {
     color: #757575;
     text-decoration: none;
-}
-.images {
-
 }
 .business {
     background-color: #2F303A;
@@ -96,7 +93,6 @@ p {
 }
 h1 {
     color: #FFFFFF;
-
 }
 h2 {
     color:#212121
@@ -106,15 +102,25 @@ h4 {
     font-size: 18px;
     line-height: 2;
     color: #212121}
+h5{
+    font-family: "Roboto";
+    font-weight: 700;
+    color: #212121;
+}
 h6 {
     color: #212121;
 }
 .lorem-ipsum {
-    color: #E5E5E5;
+   background-color: #E5E5E5;
 }
+
 .team {
     color: #F5F4FA;
 }
+
 .main {
-    color: #E5E5E5;
+    background-color: #fff;
+}
+.top {
+    Font-family: "Roboto" 
 }
