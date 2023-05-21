@@ -5,15 +5,18 @@
     font-size: 14px;
 }
 .button1 {
+    cursor: pointer;
     width: 200px;
     height: 50px;
     color: #eee;
     background-color:#2196F3
+    
 }
 .button1:hover {
     background-color: #2196F3;
 }
 .button {
+    cursor: pointer;
     width: 121px;
     height: 38px;
     background-color: #eee;
@@ -23,6 +26,7 @@
 }
 
 .button:hover {
+    color: #fff;
     background-color: #2196F3;
         }
 
@@ -85,14 +89,22 @@ p{
     color: #757575;
     cursor: "pointer";
 }
-
+.text2:hover {
+    color:#2196F3
+}
 .text3 {
     color: #757575;
     text-decoration: none;
 }
-.text4 {
+.text3:hover {
     color: #2196F3;
+}
+.text4 {
+    color: #757575;
     text-decoration: none;
+}
+.text4:hover {
+    color:#2196F3
 }
 
 .business {
