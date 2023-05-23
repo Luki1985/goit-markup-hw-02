@@ -112,6 +112,9 @@ p{
 .text4 {
     color: #757575;
     text-decoration: none;
+    font-family: "Roboto";
+    font-weight: 500;
+    line-height: 1.1;
 }
 .text4:hover {
     color:#2196F3
